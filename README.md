@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Proffy API
+📚 Proffy API 📚
 </h1>
 
 <p align="center">Proffy is a Restfull API of <a href="https://github.com/Luksdantas/ReactJS-Proffy">Proffy Web</a> and <a href="https://github.com/Luksdantas/ReactNative-Proffy">Proffy Mobile</a> </p>
