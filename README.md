@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://github.com/Luksdantas/ReactNative-Proffy/blob/main/src/assets/images/landing.png" />
+</p>
+
 <h1 align="center">
 Proffy API
 </h1>
